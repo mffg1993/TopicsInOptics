@@ -45,4 +45,28 @@ git clone https://github.com/your-username/optics-notes.git
 cd optics-notes
 pip install -r requirements.txt
 ```
+## 🛠 Dependencies
+Dependencies may vary across notebooks. Common packages include:
 
+* numpy
+* matplotlib
+* scipy
+* jupyter
+* sympy
+* seaborn
+
+## ✍️ License & Contributions
+This is a personal academic resource and not a polished textbook. Feel free to fork or adapt anything here — but please cite or link back when sharing publicly.
+
+Licensed under the MIT License.
+
+## 📌 Notes
+1. Some (most) notebooks are works in progress.
+
+2. The level ranges from undergraduate to graduate, depending on the topic.
+
+3. Future updates may include LaTeX export, animations, and Colab support.
+
+## 👋 About
+Maintained by Manuel F. Ferrer Garcia, Ph.D. 
+If you find it helpful or want to collaborate, feel free to reach out.
