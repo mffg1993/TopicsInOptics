@@ -1,10 +1,9 @@
 # 🌌 Structured Light Tutorials & Notes  
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)  
-[![Jupyter](https://img.shields.io/badge/Launch-Jupyter%20Notebook-orange.svg)](https://jupyter.org/)  
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) 
+[![Jupyter](https://img.shields.io/badge/Launch-Jupyter%20Notebook-orange.svg)](https://jupyter.org/) 
 [![Made with Love](https://img.shields.io/badge/Made%20with-%F0%9F%92%96-red.svg)](https://github.com/username/StructuredLight-Tutorials)  
-
 ## 📖 Overview  
 Light is a phenomenon that has captivated the imagination and curiosity of humanity for millennia. Nevertheless, it was not until James C. Maxwell published his seminal work A Treatise on Electricity and Magnetism that physicists have a complete toolbox to understand and tame electromagnetic radiation[1]. Traditionally, the study of electrodynamics relies on the use of simple models such as plane waves [2]. These idealized, almost mythological, structures are characterized by having a constant phase and uniform intensity over the transverse plane and form. However, while mathematically convenient, it is not difficult to show that plane waves are not physically realizable since they carry an infinite amount of energy[2]. In reality, optical fields are described as time-dependent complex vector fields obtained from solving Maxwell's equations under specific constraints. The resultant light structures possess many degrees of freedom, providing physicists with tools for exploring new optical phenomena.
 
