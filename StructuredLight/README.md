@@ -12,7 +12,7 @@ Light is a phenomenon that has captivated the imagination and curiosity of human
 Technological advancements have allowed the generation of complex fields which have found applications in optical manipulation [3], microscopy [4-6], surface and material structuring [7], and classical and quantum communication [8-10]. Yet while the "*zoo*" of strucutred light beams has expanded rapidly in the last decades, the development of introductory and accessible resources for students remains limited in comparison. For this reason, I  took the challenge and endevour of creating some detailed educational resources based on my collection of numerical tools developed during my career. 
 
 ## 🗂 Repository Structure  
-
+```text
 StructuredLight/
 │
 ├── N1_Foundations/ # Basics of wave equations and EM foundations
@@ -20,6 +20,7 @@ StructuredLight/
 ├── N3_Polarization/ # Description of polarization of light
 ├── N4 VectorBeams/ # Getting creative by merging all the degrees of freedom of light
 ├── Mathematica/ # A collection of similar notebooks but utilizing the Wolfram Language
+```
 
 ## 🤝 Contributing
 Contributions are welcome!  
