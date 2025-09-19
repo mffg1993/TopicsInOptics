@@ -38,14 +38,6 @@ This project was made possible thanks to:
 ## 📜 License  
 Content is released under **CC BY-NC-SA 4.0**. See `LICENSE` for details.  
 
-## 🔎 Other resources
-
-* [Forbes,A  "Structured Light: Tailored for Purpose," Optics & Photonics News 31(6), 24-31 (2020)](https://opg.optica.org/opn/abstract.cfm?uri=opn-31-6-24)
-* [Forbes, A., de Oliveira, M. & Dennis, M.R. "Structured light". Nat. Photonics 15, 253–262 (2021)](https://www.nature.com/articles/s41566-021-00780-4)
-* [Nape, I., Sephton, B., Ornelas P., Moodley, C. & Forbes, A. "Quantum structured light in high dimensions" APL Photonics 8 (5): 051101 (2023)](https://pubs.aip.org/aip/app/article/8/5/051101/2888637/Quantum-structured-light-in-high-dimensions)
-
-
-
 ## 📚 References
 [1] James Clerk Maxwell. A treatise on electricity and magnetism, volume 1. Clarendon press, 1873.
 
@@ -74,4 +66,13 @@ and E. Karimi, Quantum cryptography with twisted photons through an outdoor unde
 [12] Parry Moon and Domina E Spencer. Field theory handbook: including coordinate systems, differential equations and their solutions. Springer, 2012.
 
 [13]David L Andrews and Mohamed Babiker. The angular momentum of light. Cambridge University Press, 2012.
+
+
+## 🔎 Other resources
+
+* [Forbes,A  "Structured Light: Tailored for Purpose," Optics & Photonics News 31(6), 24-31 (2020)](https://opg.optica.org/opn/abstract.cfm?uri=opn-31-6-24)
+* [Forbes, A., de Oliveira, M. & Dennis, M.R. "Structured light". Nat. Photonics 15, 253–262 (2021)](https://www.nature.com/articles/s41566-021-00780-4)
+* [Nape, I., Sephton, B., Ornelas P., Moodley, C. & Forbes, A. "Quantum structured light in high dimensions" APL Photonics 8 (5): 051101 (2023)](https://pubs.aip.org/aip/app/article/8/5/051101/2888637/Quantum-structured-light-in-high-dimensions)
+
+
 
